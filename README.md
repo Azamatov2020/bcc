@@ -1,2 +1,2 @@
 # bcc
-https://github.com/yrysty97/bcc/
+https://yrysty97.github.io/bcc/
